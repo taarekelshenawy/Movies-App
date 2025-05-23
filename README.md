@@ -1,2 +1,2 @@
 # Movies-App
-Movies app using Tailwind css and javascript
+A simple and responsive Movies App  built using html and Tailwind css and javascript 
